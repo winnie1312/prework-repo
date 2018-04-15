@@ -2,7 +2,6 @@
   background-color: #eaeff7;  
   width: 100%;
   min-height: 100%;
-  
 }
 
 .title {
@@ -26,12 +25,16 @@
 
 .main-page {
   margin-top: -20px;
+  margin-right: 0 !important;
+  margin-left: 0 !important;
 }
 
 .area-1 {
   height: 800px;
-  width: 100%;
+  /* width: 100%; */
   background-image: url(./image/pillow1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .content-1 {
