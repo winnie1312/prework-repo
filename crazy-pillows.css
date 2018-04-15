@@ -1,0 +1,70 @@
+#wrapper {
+  background-color: #eaeff7;  
+  width: 100%;
+  min-height: 100%;
+  
+}
+
+.title {
+  color:#1e306e;  
+  font-weight: bold;  
+}
+
+.cart {
+  margin-top: -5px;
+  color:#1e306e;
+}
+
+.phone-number {
+  float: right;  
+  padding-top: 5px;
+}
+
+.left-area {
+  float: right;  
+}
+
+.main-page {
+  margin-top: -20px;
+}
+
+.area-1 {
+  height: 800px;
+  width: 100%;
+  background-image: url(./image/pillow1.jpg);
+}
+
+.content-1 {
+  margin-top: 250px;
+  margin-left: 50px;
+  display: block;
+}
+
+.slogan {
+  font-size: 45px;
+}
+
+.words {
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.order {
+  margin-bottom: 15px;
+}
+
+#hightlight {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.shop {
+  background-color: #1e306e;
+  color: #fff;
+  padding: 15px 40px;
+  border-radius: 7px;
+}
+
+.nav.navbar-nav a, .nav.phone-number a {
+  color: #333;
+}
