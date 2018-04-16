@@ -5,13 +5,13 @@
 }
 
 .title {
-  color:#1e306e;  
+  color:#0f96e4;  
   font-weight: bold;  
 }
 
 .cart {
   margin-top: -5px;
-  color:#1e306e;
+  color: #0f96e4;
 }
 
 .phone-number {
@@ -62,7 +62,7 @@
 }
 
 .shop {
-  background-color: #1e306e;
+  background-color: #0f96e4;
   color: #fff;
   padding: 15px 40px;
   border-radius: 7px;
