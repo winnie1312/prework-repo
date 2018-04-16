@@ -71,3 +71,30 @@
 .nav.navbar-nav a, .nav.phone-number a {
   color: #333;
 }
+
+
+#footer-part {
+  width: 80%;
+  margin-left: 200px;
+  margin-top: 50px;
+  height: 300px;
+  display: -webkit-flex;
+  display: flex;
+}
+
+#footer-part div {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
+.col1 a, .col2 a, .col3 a {
+  color: black;
+  text-decoration: none;
+
+}
+.col1 a:hover, .col2 a:hover, .col3 a:hover {
+  text-decoration: none;
+  color: grey;  
+}
+
